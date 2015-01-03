@@ -1,0 +1,4 @@
+#this file should include the names of the accounts whose tweets will be hoarded
+# (each on their own line)
+
+waltersagehorn
